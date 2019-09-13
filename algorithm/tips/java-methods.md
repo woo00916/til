@@ -3,6 +3,8 @@
 * 중복제거와 검색시간을 줄이기 위해, 자료구조로 해시맵을 사용했지만, 시간초과가 되었다.
 * 정렬도 추가적으로 필요한 상황
 ````java
+import java.util.Arrays;
+
 int[] ar = Arrays.stream(a).sorted().distinct().toArray();
 ````
 역시나 내가 삽질을 하고 있다는 강한 확신이 들 때는, 다른 사람의 답을 참고하는 게 좋다.

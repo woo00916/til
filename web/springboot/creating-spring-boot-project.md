@@ -36,7 +36,7 @@ Gradle 5.1.1
 - [x] gradle 설치 확인
 
 ## 3. 스프링부트 프로젝트 만들기
-#### 프로젝트 작성
+#### 1. 프로젝트 작성
 1. `create new project`에서 `gradle`선택해서 프로젝트 생성
 2. `build.gradle`에 스프링부트 관련 플러그인 추가
     * 관련문서 : https://spring.io/guides/gs/spring-boot/
@@ -60,7 +60,7 @@ public class Application {
 > * https://better-coding.com/solved-spring-boot-failed-to-read-candidate-component-class-caused-by-java-lang-classnotfoundexception-org-springframework-dao-dataaccessexception/*
 
 
-#### 실행확인
+#### 2. 실행확인
 프로젝트를 실행 후 `localhost:8080`으로 접속
 > 밑의 화면이 표시된다면, 프로젝트 생성 완료!
 

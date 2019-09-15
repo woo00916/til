@@ -15,7 +15,7 @@
 - [ ] 자바 버전 확인 및 필요한 경우 업데이트
 - [ ] gradle 설치 확인
 
-----
+
 ## 2. 환경 구축
 #### java 버전 확인
 ```shell
@@ -34,7 +34,7 @@ Gradle 5.1.1
 ...
 ```
 - [x] gradle 설치 확인
----
+
 ## 3. 스프링부트 프로젝트 만들기
 #### 프로젝트 작성
 1. `create new project`에서 `gradle`선택해서 프로젝트 생성
@@ -65,6 +65,7 @@ public class Application {
 > 밑의 화면이 표시된다면, 프로젝트 생성 완료!
 
 ![spring-boot-pj-start](/.img/spring-boot-start.PNG)
+
 ---
 > 조만간 할 일 : gradle 사용법에 대해 정리하기
 

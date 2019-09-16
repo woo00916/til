@@ -59,7 +59,7 @@ public class Application {
 > 저의 경우는 default package에 class가 작성되어 있던 것이 원인이었습니다. 패키지 생성 후 클래스를 이동했더니 문제없이 작동하는 것을 확인했습니다.</br>
 > * https://better-coding.com/solved-spring-boot-failed-to-read-candidate-component-class-caused-by-java-lang-classnotfoundexception-org-springframework-dao-dataaccessexception/*
 
-
+> 스프링부트 프로젝트 생성기 : https://start.spring.io/
 #### 2. 실행확인
 프로젝트를 실행 후 `localhost:8080`으로 접속
 > 밑의 화면이 표시된다면, 프로젝트 생성 완료!

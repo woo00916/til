@@ -1,0 +1,3 @@
+gradle
+1. gradle Cause: zip END header not found
+   solution : delete .gradle folder and rebuild

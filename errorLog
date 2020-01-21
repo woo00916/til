@@ -1,3 +1,7 @@
 gradle
 1. gradle Cause: zip END header not found
    solution : delete .gradle folder and rebuild
+2. test 구동 실패
+No tests found for given includes: 
+cause : in my case, a typo in package name ( package name of test must be same with main ) 
+reference : https://stackoverflow.com/questions/58476580/no-tests-found-for-given-includes-testfilter-includetestsmatching
